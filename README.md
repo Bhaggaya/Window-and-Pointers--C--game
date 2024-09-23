@@ -1,1 +1,1 @@
-# Window-and-Pointers-C-game
+# Window-and-Pointers (C++) game
